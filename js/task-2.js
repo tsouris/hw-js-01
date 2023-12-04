@@ -5,10 +5,10 @@
 
 const findLongestWord = function (string) {
   let longestWord = "";
-  for (let i = 0; i < string.length; i++) {
-    longestWord += string[i];
-  }
-  return longestWord;
+//   for (let i = 0; i < string.length; i++) {
+//     longestWord += string[i];
+//   }
+//   return longestWord;
 };
 
 console.log(findLongestWord("The quick brown fox jumped over the lazy dog")); 
